@@ -2,7 +2,7 @@
 
 ## Survey and Report
 
-|Title|Conference/Institute|Year|
+|**Title**|**Conference/Institute**|**Year**|
 |-----|:----------:|:----:|
 |[Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing](https://dl.acm.org/doi/full/10.1145/3560815)|ACM Computing Surveys|Dec 2022|
 |[Towards Reasoning in Large Language Models: A Survey](https://arxiv.org/abs/2212.10403)|ArXiv|Dec 2022|
@@ -15,7 +15,7 @@
 
 ## Paper
 
-|Topic|Title|Conference|Year|
+|**Topic**|**Title**|**Conference**|**Year**|
 |--------|-----|:----------:|:----:|
 |Chatbots, toxic|[Why So Toxic?: Measuring and Triggering Toxic Behavior in Open-Domain Chatbots](https://dl.acm.org/doi/abs/10.1145/3548606.3560599)|CCS|Nov 2022|
 |ChatGPT, ethics|[Exploring AI Ethics of ChatGPT: A Diagnostic Analysis](https://arxiv.org/abs/2301.12867)|ArXiv|Jan 2023|
@@ -48,7 +48,7 @@
 |Deepfake, LM|[Deepfake Text Detection: Limitations and Opportunities](https://www.computer.org/csdl/proceedings-article/sp/2023/933600a019/1He7XJaERtC)|S&P|May 2023|
 
 ## Datasets
-|Title|Paper|Link|
+|**Title**|**Paper**|**Link**|
 |-----|:----------:|:----:|
 |Real Toxicity Prompts|[paper](https://www.semanticscholar.org/paper/RealToxicityPrompts%3A-Evaluating-Neural-Toxic-in-Gehman-Gururangan/399e7d8129c60818ee208f236c8dda17e876d21f)|[website](https://allenai.org/data/real-toxicity-prompts)
 |Awesome ChatGPT Prompts|-|[github](https://github.com/f/awesome-chatgpt-prompts)|
