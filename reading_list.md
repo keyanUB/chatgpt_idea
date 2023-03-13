@@ -2,7 +2,7 @@
 
 ## Survey and Report
 
-|<span style="background-color: #f2f2f2">Title</span>|<span style="background-color: #f2f2f2">Conference /Institute</span>|<span style="background-color: #f2f2f2">Year</span>|
+|Title|Conference/Institute|Year|
 |-----|:----------:|:----:|
 |[Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing](https://dl.acm.org/doi/full/10.1145/3560815)|ACM Computing Surveys|Dec 2022|
 |[Towards Reasoning in Large Language Models: A Survey](https://arxiv.org/abs/2212.10403)|ArXiv|Dec 2022|
