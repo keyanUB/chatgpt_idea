@@ -56,7 +56,7 @@
 |Wirting Prompts (Reddit: Prompts and motivation to create something out of nothing)|-|[reddit](https://www.reddit.com/r/WritingPrompts/)
 |DiffusionDB (text-to-image)|-|[github](https://github.com/poloclub/diffusiondb)
 
-### Article and Blog
+## Article and Blog
 - Introducing ChatGPT. [[link]](https://openai.com/blog/chatgpt)
 - Aligning Language Models to Follow Instructions (InstructAPI). [[link]](https://openai.com/research/instruction-following)
 - Reinforcement Learning from Human Feedback (RLHF). [[link]](https://openai.com/research/learning-from-human-preferences)
