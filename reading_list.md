@@ -44,7 +44,8 @@
 |Hate, bot|[Hate Raids on Twitch: Echoes of the Past, New Modalities, and Implications for Platform Governance](https://kumarde.com/papers/hateraids.pdf)|CSCW|Jan 2023|
 |Hate speech, adversarial attack|[TOXIGEN: A Large-Scale Machine-Generated Dataset for Adversarial and Implicit Hate Speech Detection](https://arxiv.org/pdf/2203.09509.pdf)|ACL|Jul 2022|
 |Hate speech, ChatGPT|[Is ChatGPT better than Human Annotators? Potential and Limitations of ChatGPT in Explaining Implicit Hate Speech](https://arxiv.org/pdf/2302.07736.pdf)|ArXiv|Feb 2023|
-|Sponge examples|[Sponge Examples: Energy-Latency Attacks on Neural Networks](https://ieeexplore.ieee.org/abstract/document/9581273)|EuroS&P|Sep 2021|
+|Sponge Attack|[Sponge Examples: Energy-Latency Attacks on Neural Networks](https://ieeexplore.ieee.org/abstract/document/9581273)|EuroS&P|Sep 2021|
+|Sponge Attack|[Phantom Sponges: Exploiting Non-Maximum Suppression to Attack Deep Object Detectors](https://ieeexplore.ieee.org/abstract/document/10030526)|WACV|Mar 2023|
 |Deepfake, LM|[Deepfake Text Detection: Limitations and Opportunities](https://www.computer.org/csdl/proceedings-article/sp/2023/933600a019/1He7XJaERtC)|S&P|May 2023|
 
 ## Datasets
@@ -54,7 +55,8 @@
 |Awesome ChatGPT Prompts|-|[github](https://github.com/f/awesome-chatgpt-prompts)|
 |Anthropic's Red Team dataset|[paper](https://arxiv.org/abs/2209.07858)|[github](https://github.com/anthropics/hh-rlhf/tree/master/red-team-attempts)
 |Wirting Prompts (Reddit: Prompts and motivation to create something out of nothing)|-|[reddit](https://www.reddit.com/r/WritingPrompts/)
-|DiffusionDB (text-to-image)|-|[github](https://github.com/poloclub/diffusiondb)
+|DiffusionDB (text-to-image)|-|[github](https://github.com/poloclub/diffusiondb)|
+|Hate Speech Dataset List|-|[github](https://github.com/leondz/hatespeechdata)|
 
 ## Article and Blog
 - Introducing ChatGPT. [[link]](https://openai.com/blog/chatgpt)
