@@ -49,6 +49,7 @@
 |Deepfake, LM|[Deepfake Text Detection: Limitations and Opportunities](https://www.computer.org/csdl/proceedings-article/sp/2023/933600a019/1He7XJaERtC)|S&P|May 2023|
 
 ## Datasets
+### Prompt dataset
 |**Title**|**Paper**|**Link**|
 |-----|:----------:|:----:|
 |Real Toxicity Prompts|[paper](https://www.semanticscholar.org/paper/RealToxicityPrompts%3A-Evaluating-Neural-Toxic-in-Gehman-Gururangan/399e7d8129c60818ee208f236c8dda17e876d21f)|[website](https://allenai.org/data/real-toxicity-prompts)
@@ -56,7 +57,18 @@
 |Anthropic's Red Team dataset|[paper](https://arxiv.org/abs/2209.07858)|[github](https://github.com/anthropics/hh-rlhf/tree/master/red-team-attempts)
 |Wirting Prompts (Reddit: Prompts and motivation to create something out of nothing)|-|[reddit](https://www.reddit.com/r/WritingPrompts/)
 |DiffusionDB (text-to-image)|-|[github](https://github.com/poloclub/diffusiondb)|
-|Hate Speech Dataset List|-|[github](https://github.com/leondz/hatespeechdata)|
+
+### Hate speech dataset
+|**Title**|**Paper**|**Link**|**Year**|
+|-----|:----------:|:----:|:----:|
+|Hate Speech Dataset List|-|[github](https://github.com/leondz/hatespeechdata)| - |
+|Racism is a Virus: Anti-Asian Hate and Counterspeech in Social Media during the COVID-19 Crisis| [paper](https://arxiv.org/pdf/2005.12423.pdf) ASONAM|[dropbox](https://www.dropbox.com/sh/g9uglvl3cd61k69/AACEk2O2BEKwRTcGthgROOcWa?dl=0)| Nov 2021 |
+|Call me sexist, but...”: Revisiting Sexism Detection Using Psychological Scalesand Adversarial Samples|[paper](https://ojs.aaai.org/index.php/ICWSM/article/view/18085/17888) ICWSM| [link](https://doi.org/10.7802/2251)| Jun 2021 |
+|Hate Towards the Political Opponent: A Twitter Corpus Study of the 2020 US Elections on the Basis of Offensive Speech and Stance Detection|[paper](https://aclanthology.org/2021.wassa-1.18/) WASSA | [link](https://www.ims.uni-stuttgart.de/data/stance_hof_us2020)| Apr 2021|
+|Hatemoji: A Test Suite and Adversarially-Generated Dataset for Benchmarking and Detecting Emoji-based Hate|[paper](https://arxiv.org/abs/2108.05921) NAACL|[github](https://github.com/HannahKirk/Hatemoji) |Aug 2021|
+|HateXplain: A Benchmark Dataset for Explainable Hate Speech Detection|[paper](https://ojs.aaai.org/index.php/AAAI/article/view/17745) AAAI|[github](https://github.com/hate-alert/HateXplain)|Dec 2020|
+
+
 
 ## Article and Blog
 - Introducing ChatGPT. [[link]](https://openai.com/blog/chatgpt)
