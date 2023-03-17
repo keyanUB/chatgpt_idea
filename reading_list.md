@@ -66,7 +66,7 @@
 |Call me sexist, but...”: Revisiting Sexism Detection Using Psychological Scalesand Adversarial Samples|[paper](https://ojs.aaai.org/index.php/ICWSM/article/view/18085/17888) ICWSM| [link](https://doi.org/10.7802/2251)| Jun 2021 |
 |Hate Towards the Political Opponent: A Twitter Corpus Study of the 2020 US Elections on the Basis of Offensive Speech and Stance Detection|[paper](https://aclanthology.org/2021.wassa-1.18/) WASSA | [link](https://www.ims.uni-stuttgart.de/data/stance_hof_us2020)| Apr 2021|
 |Hatemoji: A Test Suite and Adversarially-Generated Dataset for Benchmarking and Detecting Emoji-based Hate|[paper](https://arxiv.org/abs/2108.05921) NAACL|[github](https://github.com/HannahKirk/Hatemoji) |Aug 2021|
-|HateXplain: A Benchmark Dataset for Explainable Hate Speech Detection|[paper](https://ojs.aaai.org/index.php/AAAI/article/view/17745) AAAI|[github](https://github.com/hate-alert/HateXplain)|Dec 2020|
+|HateXplain: A Benchmark Dataset for Explainable Hate Speech Detection|[paper](https://ojs.aaai.org/index.php/AAAI/article/view/17745)<br>AAAI|[github](https://github.com/hate-alert/HateXplain)|Dec 2020|
 
 
 
