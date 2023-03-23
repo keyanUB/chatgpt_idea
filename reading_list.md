@@ -98,3 +98,4 @@
 - Exploring Prompt Injection Attacks. [[link]](https://research.nccgroup.com/2022/12/05/exploring-prompt-injection-attacks/)
 - ChatGPT’s creator made a free tool for detecting AI-generated text. [[link]](https://www.theverge.com/2023/1/31/23579942/chatgpt-ai-text-detection-openai-classifier)
 - Chatbot Safety with Prompt Evaluator for Chat-GPT [[link]](https://www.aligned-ai.com/post/chatbot-safety-with-prompt-evaluator-for-chat-gpt)
+- Stanford Alpaca [[GitHub]](https://github.com/tatsu-lab/stanford_alpaca)
