@@ -64,7 +64,7 @@
 |VPA|[SkillExplorer: Understanding the Behavior of Skills in Large Scale](https://www.usenix.org/system/files/sec20-guo.pdf)|USENIX| Aug 2020|
 |Adversarial example, Seq-to-Seq models|[Seq2Sick: Evaluating the Robustness of Sequence-to-Sequence Models with Adversarial Examples](https://arxiv.org/abs/1803.01128)|AAAI|Apr 2020|
 |Adversarial example, NLP|[Universal Adversarial Triggers for Attacking and Analyzing NLP](https://arxiv.org/abs/1908.07125)|EMNLP| Jan 2021|
-
+|Aversarial example, NLP|[HotFlip: White-Box Adversarial Examples for Text Classification](https://arxiv.org/abs/1712.06751)|ACL|July 2018|
 
 ## Datasets
 ### Prompt dataset
