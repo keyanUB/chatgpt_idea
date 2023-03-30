@@ -62,7 +62,9 @@
 |LLM, Hardware|[Fixing Hardware Security Bugs with Large Language Models](https://arxiv.org/pdf/2302.01215.pdf)|ArXiv|Feb 2023|
 |SmartHome, Human-centered computing|[Demystifying the Vetting Process of Voice-controlled Skills on Markets](https://dl.acm.org/doi/pdf/10.1145/3478101)|IMWUT|Sep 2021|
 |VPA|[SkillExplorer: Understanding the Behavior of Skills in Large Scale](https://www.usenix.org/system/files/sec20-guo.pdf)|USENIX| Aug 2020|
-
+|Adversarial example, Seq-to-Seq models|[Seq2Sick: Evaluating the Robustness of Sequence-to-Sequence Models with Adversarial Examples](https://arxiv.org/abs/1803.01128)|AAAI|Apr 2020|
+|Adversarial example, NLP|[Universal Adversarial Triggers for Attacking and Analyzing NLP](https://arxiv.org/abs/1908.07125)|EMNLP| Jan 2021|
+|Aversarial example, NLP|[HotFlip: White-Box Adversarial Examples for Text Classification](https://arxiv.org/abs/1712.06751)|ACL|July 2018|
 
 ## Datasets
 ### Prompt dataset
@@ -98,3 +100,4 @@
 - Exploring Prompt Injection Attacks. [[link]](https://research.nccgroup.com/2022/12/05/exploring-prompt-injection-attacks/)
 - ChatGPT’s creator made a free tool for detecting AI-generated text. [[link]](https://www.theverge.com/2023/1/31/23579942/chatgpt-ai-text-detection-openai-classifier)
 - Chatbot Safety with Prompt Evaluator for Chat-GPT [[link]](https://www.aligned-ai.com/post/chatbot-safety-with-prompt-evaluator-for-chat-gpt)
+- Stanford Alpaca [[GitHub]](https://github.com/tatsu-lab/stanford_alpaca)
