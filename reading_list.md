@@ -12,6 +12,7 @@
 |[Augmented Language Models: a Survey](https://arxiv.org/abs/2302.07842)| ArXiv| Fen 2023|
 |[Emergent Abilities of Large Language Models](https://research.google/pubs/pub52065/)|TMLR|Jun 2022|
 |[On the Opportunities and Risks of Foundation Models](https://arxiv.org/abs/2108.07258)|HAI|Jul 2021|
+|[A Categorical Archive of ChatGPT Failure](https://arxiv.org/pdf/2302.03494.pdf)|ArXiv|Feb 2023|
 
 
 ## Paper
@@ -37,6 +38,9 @@
 |Prompt|[Dynamic Prompting: A Unified Framework for Prompt Tuning](https://arxiv.org/abs/2303.02909)|ArXiv|Mar 2023|
 |Adversarial prompt|[Ignore Previous Prompt: Attack Techniques For Language Models](https://arxiv.org/pdf/2211.09527.pdf)|ArXiv|Nov 2022|
 |Adversarial prompt|[Adversarial Prompting for Black Box Foundation](https://arxiv.org/pdf/2302.04237.pdf)|ArXiv|Feb 2023|
+|Generative AI, Misinformation| [Synthetic Lies: Understanding AI-Generated Misinformation and Evaluating Algorithmic and Human Solutions](https://jiaweizhou.me/assets/chi23_ai_misinfo.pdf)|CHI|Apr 2023|
+|LLM, GPT-2, Memorization|[Extracting Training Data from Large Language Models](https://www.usenix.org/system/files/sec21-carlini-extracting.pdf)|USENIX|Aug 2021|
+|Generative AI, LLM|[On the Possibilities of AI-Generated Text Detection](https://arxiv.org/pdf/2304.04736.pdf)|ArXiv|Apr 2023|
 
 ### Online hate-related
 |**Topic**|**Title**|**Conference**|**Year**|
@@ -103,3 +107,4 @@ Bug Fixing, ChatGPT| Keep [the Conversation Going:Fixing 162 out of 337 bugs for
 - ChatGPT’s creator made a free tool for detecting AI-generated text. [[link]](https://www.theverge.com/2023/1/31/23579942/chatgpt-ai-text-detection-openai-classifier)
 - Chatbot Safety with Prompt Evaluator for Chat-GPT [[link]](https://www.aligned-ai.com/post/chatbot-safety-with-prompt-evaluator-for-chat-gpt)
 - Stanford Alpaca [[GitHub]](https://github.com/tatsu-lab/stanford_alpaca)
+- Large Language Models like ChatGPT say The Darnedest Things [[link]](https://garymarcus.substack.com/p/large-language-models-like-chatgpt)
