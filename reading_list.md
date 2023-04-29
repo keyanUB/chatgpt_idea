@@ -52,6 +52,8 @@
 |Dialogue System, online hate|[SAFETYKIT: First Aid for Measuring Safety in Open-domain Conversational Systems](https://iris.unibocconi.it/bitstream/11565/4053224/1/2022.acl-long.284.pdf)|ACL|May 2022|
 |Dialogue System, online hate| [On the Safety of Conversational Models: Taxonomy, Dataset, and Benchmark](https://arxiv.org/pdf/2110.08466.pdf)|ACL|May 2022|
 |Chatbots, toxic|[Why So Toxic?: Measuring and Triggering Toxic Behavior in Open-Domain Chatbots](https://dl.acm.org/doi/abs/10.1145/3548606.3560599)|CCS|Nov 2022|
+｜Toxic, Persona, ChatGPT｜[Toxicity in ChatGPT: Analyzing Persona-assigned Language Models](https://arxiv.org/pdf/2304.05335.pdf)|ArXiv|Apr 2023|
+|Hateful, offensive, toxic, ChatGPT|["HOT" ChatGPT: The promise of ChatGPT in detecting and discriminating hateful, offensive, and toxic comments on social media](https://arxiv.org/pdf/2304.10619.pdf)|ArXiv|Apr 2023|
 
 
 
