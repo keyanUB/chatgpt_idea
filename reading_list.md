@@ -96,6 +96,7 @@ Bug Fixing, ChatGPT| [Keep the Conversation Going:Fixing 162 out of 337 bugs for
 
 ## Journal
 |**Topic**|**Title**|**Journal**|**Year**|
+|-----|:----------:|:----:|:----:|
 |Hate Speech|[A Literature Review of Textual Hate Speech Detection Methods and Datasets](https://www.mdpi.com/2078-2489/13/6/273)|Information|Apr 2022|
 
 ## Article and Blog
