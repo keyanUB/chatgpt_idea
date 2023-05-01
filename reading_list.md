@@ -94,7 +94,9 @@ Bug Fixing, ChatGPT| [Keep the Conversation Going:Fixing 162 out of 337 bugs for
 |Hatemoji: A Test Suite and Adversarially-Generated Dataset for Benchmarking and Detecting Emoji-based Hate|[paper](https://arxiv.org/abs/2108.05921) NAACL|[github](https://github.com/HannahKirk/Hatemoji) |Aug 2021|
 |HateXplain: A Benchmark Dataset for Explainable Hate Speech Detection|[paper](https://ojs.aaai.org/index.php/AAAI/article/view/17745)<br>AAAI|[github](https://github.com/hate-alert/HateXplain)|Dec 2020|
 
-
+## Journal
+|**Topic**|**Title**|**Journal**|**Year**|
+|Hate Speech|[A Literature Review of Textual Hate Speech Detection Methods and Datasets](https://www.mdpi.com/2078-2489/13/6/273)|Information|Apr 2022|
 
 ## Article and Blog
 - Introducing ChatGPT. [[link]](https://openai.com/blog/chatgpt)
