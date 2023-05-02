@@ -113,3 +113,4 @@ Bug Fixing, ChatGPT| [Keep the Conversation Going:Fixing 162 out of 337 bugs for
 - Chatbot Safety with Prompt Evaluator for Chat-GPT [[link]](https://www.aligned-ai.com/post/chatbot-safety-with-prompt-evaluator-for-chat-gpt)
 - Stanford Alpaca [[GitHub]](https://github.com/tatsu-lab/stanford_alpaca)
 - Large Language Models like ChatGPT say The Darnedest Things [[link]](https://garymarcus.substack.com/p/large-language-models-like-chatgpt)
+- Open AI -Our approach to AI safety [[link]](https://openai.com/blog/our-approach-to-ai-safety)
