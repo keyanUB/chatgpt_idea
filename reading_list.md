@@ -54,6 +54,7 @@
 |Chatbots, toxic|[Why So Toxic?: Measuring and Triggering Toxic Behavior in Open-Domain Chatbots](https://dl.acm.org/doi/abs/10.1145/3548606.3560599)|CCS|Nov 2022|
 |Toxic, Persona, ChatGPT|[Toxicity in ChatGPT: Analyzing Persona-assigned Language Models](https://arxiv.org/pdf/2304.05335.pdf)|ArXiv|Apr 2023|
 |Hateful, offensive, toxic, ChatGPT|["HOT" ChatGPT: The promise of ChatGPT in detecting and discriminating hateful, offensive, and toxic comments on social media](https://arxiv.org/pdf/2304.10619.pdf)|ArXiv|Apr 2023|
+|Hate Speech, Detection|[A Holistic Approach to Undesired Content Detection in the Real World](efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/2208.03274.pdf)| AAAI|Feb 2023|
 
 
 
@@ -104,6 +105,8 @@ Bug Fixing, ChatGPT| [Keep the Conversation Going:Fixing 162 out of 337 bugs for
 - Aligning Language Models to Follow Instructions (InstructAPI). [[link]](https://openai.com/research/instruction-following)
 - Reinforcement Learning from Human Feedback (RLHF). [[link]](https://openai.com/research/learning-from-human-preferences)
 - Moderation API. [[link]](https://openai.com/blog/new-and-improved-content-moderation-tooling)
+- GPT-4 system card. [[link]](https://cdn.openai.com/papers/gpt-4-system-card.pdf)
+- How Do OpenAI’s Efforts To Make GPT-4 “Safer” Stack Up Against The NIST AI Risk Management Framework? [[link]](https://fas.org/publication/how-do-openais-efforts-to-make-gpt-4-safer-stack-up-against-the-nist-ai-risk-management-framework/)
 - How to format inputs to ChatGPT models. [[link]](https://github.com/openai/openai-cookbook/blob/main/examples/How_to_format_inputs_to_ChatGPT_models.ipynb)
 - Advanced Prompting. [[link]](https://github.com/dair-ai/Prompt-Engineering-Guide/blob/main/guides/prompts-advanced-usage.md)
 - Adversarial Prompt Engineering. [[link]](https://github.com/dair-ai/Prompt-Engineering-Guide/blob/main/guides/prompts-adversarial.md)
