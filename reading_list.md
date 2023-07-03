@@ -56,6 +56,7 @@
 |Hateful, offensive, toxic, ChatGPT|["HOT" ChatGPT: The promise of ChatGPT in detecting and discriminating hateful, offensive, and toxic comments on social media](https://arxiv.org/pdf/2304.10619.pdf)|ArXiv|Apr 2023|
 |Hate Speech, Detection|[A Holistic Approach to Undesired Content Detection in the Real World](efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/2208.03274.pdf)| AAAI|Feb 2023|
 |Persona, User Opinion|[Aligning Language Models to User Opinions](https://arxiv.org/pdf/2305.14929.pdf)|ArXiv|May 2023|
+|Adversarial Example, LLM Safety|[Visual Adversarial Examples Jailbreak Large Language Models](https://arxiv.org/pdf/2306.13213.pdf)|ArXiv|Jun 2023|
 
 
 
