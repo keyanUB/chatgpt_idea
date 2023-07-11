@@ -41,6 +41,7 @@
 |Generative AI, Misinformation| [Synthetic Lies: Understanding AI-Generated Misinformation and Evaluating Algorithmic and Human Solutions](https://jiaweizhou.me/assets/chi23_ai_misinfo.pdf)|CHI|Apr 2023|
 |LLM, GPT-2, Memorization|[Extracting Training Data from Large Language Models](https://www.usenix.org/system/files/sec21-carlini-extracting.pdf)|USENIX|Aug 2021|
 |Generative AI, LLM|[On the Possibilities of AI-Generated Text Detection](https://arxiv.org/pdf/2304.04736.pdf)|ArXiv|Apr 2023|
+|Robustness, Large Vision-Language Models|[On Evaluating Adversarial Robustness of Large Vision-Language Model](https://arxiv.org/pdf/2305.16934.pdf)|ArXiv|May 2023|
 
 ### Online hate-related
 |**Topic**|**Title**|**Conference**|**Year**|
@@ -54,7 +55,8 @@
 |Chatbots, toxic|[Why So Toxic?: Measuring and Triggering Toxic Behavior in Open-Domain Chatbots](https://dl.acm.org/doi/abs/10.1145/3548606.3560599)|CCS|Nov 2022|
 |Toxic, Persona, ChatGPT|[Toxicity in ChatGPT: Analyzing Persona-assigned Language Models](https://arxiv.org/pdf/2304.05335.pdf)|ArXiv|Apr 2023|
 |Hateful, offensive, toxic, ChatGPT|["HOT" ChatGPT: The promise of ChatGPT in detecting and discriminating hateful, offensive, and toxic comments on social media](https://arxiv.org/pdf/2304.10619.pdf)|ArXiv|Apr 2023|
-|Hate Speech, Detection|[A Holistic Approach to Undesired Content Detection in the Real World](efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/2208.03274.pdf)| AAAI|Feb 2023|
+|Hate Speech, Detection|[A Holistic Approach to Undesired Content Detection in the Real World](efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/2208.03274.pdf)|AAAI|Feb 2023|
+|NSFW, Text-to-Image, DALLE|[SneakyPrompt: Evaluating Robustness of Text-to-image Generative Models’ Safety Filters](https://arxiv.org/pdf/2305.12082.pdf)|ArXiv|May 2023|
 
 
 
