@@ -55,8 +55,14 @@
 |Chatbots, toxic|[Why So Toxic?: Measuring and Triggering Toxic Behavior in Open-Domain Chatbots](https://dl.acm.org/doi/abs/10.1145/3548606.3560599)|CCS|Nov 2022|
 |Toxic, Persona, ChatGPT|[Toxicity in ChatGPT: Analyzing Persona-assigned Language Models](https://arxiv.org/pdf/2304.05335.pdf)|ArXiv|Apr 2023|
 |Hateful, offensive, toxic, ChatGPT|["HOT" ChatGPT: The promise of ChatGPT in detecting and discriminating hateful, offensive, and toxic comments on social media](https://arxiv.org/pdf/2304.10619.pdf)|ArXiv|Apr 2023|
+<<<<<<< HEAD
 |Hate Speech, Detection|[A Holistic Approach to Undesired Content Detection in the Real World](efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/2208.03274.pdf)|AAAI|Feb 2023|
 |NSFW, Text-to-Image, DALLE|[SneakyPrompt: Evaluating Robustness of Text-to-image Generative Models’ Safety Filters](https://arxiv.org/pdf/2305.12082.pdf)|ArXiv|May 2023|
+=======
+|Hate Speech, Detection|[A Holistic Approach to Undesired Content Detection in the Real World](efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/2208.03274.pdf)| AAAI|Feb 2023|
+|Persona, User Opinion|[Aligning Language Models to User Opinions](https://arxiv.org/pdf/2305.14929.pdf)|ArXiv|May 2023|
+|Adversarial Example, LLM Safety|[Visual Adversarial Examples Jailbreak Large Language Models](https://arxiv.org/pdf/2306.13213.pdf)|ArXiv|Jun 2023|
+>>>>>>> c84eca6e72619fd273ca55476431db1c676ea570
 
 
 
@@ -75,7 +81,8 @@
 |Adversarial example, Seq-to-Seq models|[Seq2Sick: Evaluating the Robustness of Sequence-to-Sequence Models with Adversarial Examples](https://arxiv.org/abs/1803.01128)|AAAI|Apr 2020|
 |Adversarial example, NLP|[Universal Adversarial Triggers for Attacking and Analyzing NLP](https://arxiv.org/abs/1908.07125)|EMNLP| Jan 2021|
 |Aversarial example, NLP|[HotFlip: White-Box Adversarial Examples for Text Classification](https://arxiv.org/abs/1712.06751)|ACL|July 2018|
-Bug Fixing, ChatGPT| [Keep the Conversation Going:Fixing 162 out of 337 bugs for $0.42 each using ChatGPT](https://arxiv.org/abs/2304.00385)| ArXiv|Apr 2023|
+Bug Fixing, ChatGPT| [Keep the Conversation Going:Fixing 162 out of 337 bugs for $0.42 each using ChatGPT](https://arxiv.org/abs/2304.00385)|ArXiv|Apr 2023|
+|Public Opinion, LLM|[Language Models Trained on Media Diets Can Predict Public Opinion](https://arxiv.org/abs/2303.16779)|ArXiv|Mar 2023|
 
 ## Datasets
 ### Prompt dataset
