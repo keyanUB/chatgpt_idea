@@ -42,6 +42,10 @@
 |LLM, GPT-2, Memorization|[Extracting Training Data from Large Language Models](https://www.usenix.org/system/files/sec21-carlini-extracting.pdf)|USENIX|Aug 2021|
 |Generative AI, LLM|[On the Possibilities of AI-Generated Text Detection](https://arxiv.org/pdf/2304.04736.pdf)|ArXiv|Apr 2023|
 |Robustness, Large Vision-Language Models|[On Evaluating Adversarial Robustness of Large Vision-Language Model](https://arxiv.org/pdf/2305.16934.pdf)|ArXiv|May 2023|
+|LLM, Bug replay, prompt|[Prompting Is All You Need:Automated Android Bug Replay with Large Language Models](https://arxiv.org/pdf/2306.01987.pdf)|ICSE| Jun 2023|
+|Program repair, prompt, GPT|[Enhancing Automated Program Repair through Fine-tuning and Prompt Engineering](https://arxiv.org/pdf/2304.07840.pdf)|ArXiv|Jul 2023|
+|Automated program repair, automatic bug fixing, ChatGPT, Codex, LM|[An Analysis of the Automatic Bug Fixing Performance of ChatGPT](https://arxiv.org/pdf/2301.08653.pdf)|ArXiv| Jan 2023|
+|Automated program repair, LLM|[Automated Program Repair in the Era of Large Pre-trained Languauge Models](https://lingming.cs.illinois.edu/publications/icse2023a.pdf)|ICSE|Oct 2022|
 
 ### Online hate-related
 |**Topic**|**Title**|**Conference**|**Year**|
@@ -55,14 +59,12 @@
 |Chatbots, toxic|[Why So Toxic?: Measuring and Triggering Toxic Behavior in Open-Domain Chatbots](https://dl.acm.org/doi/abs/10.1145/3548606.3560599)|CCS|Nov 2022|
 |Toxic, Persona, ChatGPT|[Toxicity in ChatGPT: Analyzing Persona-assigned Language Models](https://arxiv.org/pdf/2304.05335.pdf)|ArXiv|Apr 2023|
 |Hateful, offensive, toxic, ChatGPT|["HOT" ChatGPT: The promise of ChatGPT in detecting and discriminating hateful, offensive, and toxic comments on social media](https://arxiv.org/pdf/2304.10619.pdf)|ArXiv|Apr 2023|
-<<<<<<< HEAD
 |Hate Speech, Detection|[A Holistic Approach to Undesired Content Detection in the Real World](efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/2208.03274.pdf)|AAAI|Feb 2023|
 |NSFW, Text-to-Image, DALLE|[SneakyPrompt: Evaluating Robustness of Text-to-image Generative Models’ Safety Filters](https://arxiv.org/pdf/2305.12082.pdf)|ArXiv|May 2023|
-=======
 |Hate Speech, Detection|[A Holistic Approach to Undesired Content Detection in the Real World](efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/2208.03274.pdf)| AAAI|Feb 2023|
 |Persona, User Opinion|[Aligning Language Models to User Opinions](https://arxiv.org/pdf/2305.14929.pdf)|ArXiv|May 2023|
 |Adversarial Example, LLM Safety|[Visual Adversarial Examples Jailbreak Large Language Models](https://arxiv.org/pdf/2306.13213.pdf)|ArXiv|Jun 2023|
->>>>>>> c84eca6e72619fd273ca55476431db1c676ea570
+
 
 
 
@@ -103,6 +105,7 @@ Bug Fixing, ChatGPT| [Keep the Conversation Going:Fixing 162 out of 337 bugs for
 |Hate Towards the Political Opponent: A Twitter Corpus Study of the 2020 US Elections on the Basis of Offensive Speech and Stance Detection|[paper](https://aclanthology.org/2021.wassa-1.18/) WASSA | [link](https://www.ims.uni-stuttgart.de/data/stance_hof_us2020)| Apr 2021|
 |Hatemoji: A Test Suite and Adversarially-Generated Dataset for Benchmarking and Detecting Emoji-based Hate|[paper](https://arxiv.org/abs/2108.05921) NAACL|[github](https://github.com/HannahKirk/Hatemoji) |Aug 2021|
 |HateXplain: A Benchmark Dataset for Explainable Hate Speech Detection|[paper](https://ojs.aaai.org/index.php/AAAI/article/view/17745)<br>AAAI|[github](https://github.com/hate-alert/HateXplain)|Dec 2020|
+|LatentHatred:A Benchmark for Understanding Implicit HateSpeech|[paper](https://arxiv.org/pdf/2109.05322v1.pdf)<br>EMNLP|[github](https://github.com/SALT-NLP/implicit-hate)|Sep 2021|
 
 ## Journal
 |**Topic**|**Title**|**Journal**|**Year**|
