@@ -26,7 +26,7 @@
 |LLM, prompt|[AutoPrompt: Eliciting Knowledge from Language Models with Automatically Generated Prompts](https://arxiv.org/abs/2010.15980)|EMNLP|Nov 2020|
 |LLM, prompt, toxic|[REALTOXICITYPROMPTS: Evaluating Neural Toxic Degeneration in Language Models](https://arxiv.org/pdf/2009.11462.pdf)|EMNLP|Sep 2020|
 |LLM, ChatGPT|[Check Your Facts and Try Again: Improving Large Language Models with External Knowledge and Automated Feedback](https://arxiv.org/abs/2302.12813)|ArXiv|Feb 2023|
-|ChatGPT|[Can ChatGPT Understand Too? A Comparative Study on ChatGPT and Fine-tuned BERT](https://arxiv.org/abs/2302.10198)|ArXiv|Mar 2023|
+|ChatGPT, BERT|[Can ChatGPT Understand Too? A Comparative Study on ChatGPT and Fine-tuned BERT](https://arxiv.org/abs/2302.10198)|ArXiv|Mar 2023|
 |ChatGPT|[Linguistic ambiguity analysis in ChatGPT](https://arxiv.org/abs/2302.06426)|ArXiv|Feb 2023| 
 |ChatGPT, ethics|[Exploring AI Ethics of ChatGPT: A Diagnostic Analysis](https://arxiv.org/abs/2301.12867)|ArXiv|Jan 2023|
 |ChatGPT, robust|[On the Robustness of ChatGPT: An Adversarial and Out-of-distribution Perspective](https://arxiv.org/abs/2302.12095)|ArXic|Mar 2023|
@@ -46,6 +46,8 @@
 |Program repair, prompt, GPT|[Enhancing Automated Program Repair through Fine-tuning and Prompt Engineering](https://arxiv.org/pdf/2304.07840.pdf)|ArXiv|Jul 2023|
 |Automated program repair, automatic bug fixing, ChatGPT, Codex, LM|[An Analysis of the Automatic Bug Fixing Performance of ChatGPT](https://arxiv.org/pdf/2301.08653.pdf)|ArXiv| Jan 2023|
 |Automated program repair, LLM|[Automated Program Repair in the Era of Large Pre-trained Languauge Models](https://lingming.cs.illinois.edu/publications/icse2023a.pdf)|ICSE|Oct 2022|
+|CoT, LM|[Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/pdf/2305.10601.pdf)|ArXiv|May 2023| 
+
 
 ### Online hate-related
 |**Topic**|**Title**|**Conference**|**Year**|
@@ -64,7 +66,10 @@
 |Hate Speech, Detection|[A Holistic Approach to Undesired Content Detection in the Real World](efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/2208.03274.pdf)| AAAI|Feb 2023|
 |Persona, User Opinion|[Aligning Language Models to User Opinions](https://arxiv.org/pdf/2305.14929.pdf)|ArXiv|May 2023|
 |Adversarial Example, LLM Safety|[Visual Adversarial Examples Jailbreak Large Language Models](https://arxiv.org/pdf/2306.13213.pdf)|ArXiv|Jun 2023|
-
+|Implicite hate speech, CoT, NLE|[Chain of Explanation: New Prompting Method to Generate Quality Natural Language Explanation for Implicit Hate Speec](https://arxiv.org/pdf/2209.04889.pdf)|WWW|Mar 2023|
+|Implicite hate speech, ChatGPT, NLE|[Is ChatGPT better than Human Annotators? Potential and Limitations of ChatGPT in Explaining Implicit Hate Speech](https://arxiv.org/pdf/2302.07736.pdf)|WWW|Mar 2023|
+|Text generation, research-and-revise model|[RARR: Researching and Revising What Language Models Say, Using Language Models](https://arxiv.org/abs/2210.08726)|ACL|May 2023|
+|Jaibreak Prompt, LLM|[“Do Anything Now”: Characterizing and Evaluating In-The-Wild Jailbreak Prompts on Large Language Models](https://arxiv.org/pdf/2308.03825.pdf)|ArXiv|Aug 2023|
 
 
 
@@ -85,6 +90,17 @@
 |Aversarial example, NLP|[HotFlip: White-Box Adversarial Examples for Text Classification](https://arxiv.org/abs/1712.06751)|ACL|July 2018|
 Bug Fixing, ChatGPT| [Keep the Conversation Going:Fixing 162 out of 337 bugs for $0.42 each using ChatGPT](https://arxiv.org/abs/2304.00385)|ArXiv|Apr 2023|
 |Public Opinion, LLM|[Language Models Trained on Media Diets Can Predict Public Opinion](https://arxiv.org/abs/2303.16779)|ArXiv|Mar 2023|
+|Certified robustness, textual adversarial attack, GPT|[Text-CRS: A Generalized Certified Robustness Framework against Textual adversarial Attacks](https://arxiv.org/pdf/2307.16630.pdf)|S&P|Jul 2023|
+|Automatic summarization, Chain-of-thought|[Element-aware Summarization with Large Language Models: Expert-aligned Evaluation and Chain-of-Thought Method](https://arxiv.org/pdf/2305.13412.pdf)|ACL|May 2023|
+|Multimodal reasoning, prompt, zero-shot|[MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action](https://arxiv.org/abs/2303.11381)|ArXiv| Mar 2023|
+|Foundation model, ChatGPT, image generation|[Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models](https://arxiv.org/pdf/2303.04671.pdf)|ArXiv|Mar 2023|
+|Chain-of-thought reasoning, multimodal model|[Multimodal Chain-of-Thought Reasoning in Language Models](https://arxiv.org/pdf/2302.00923.pdf)|ArXiv|Mar 2023|
+|Meme, VL, image captioning, VQA|[MEMECAP: A Dataset for Captioning and Interpreting Memes](https://arxiv.org/abs/2305.13703)|ArXiv| May 2023|
+|VL, Visual reasoning|[See, Think, Confirm: Interactive Prompting Between Vision and Language Models for Knowledge-based Visual Reasoning](https://arxiv.org/pdf/2301.05226.pdf)|ArXiv|Jan 2023|
+|CoT, NLP, prompt|[Least-to-Most Prompting Enables Complex Reasoning in Large Language Models](https://arxiv.org/abs/2205.10625)|ICLR|May 2022|
+|Text generation model, image classification|[Two-in-One: A Model Hijacking Attack Against Text Generation Models](https://arxiv.org/abs/2305.07406)|USENIX Security|May 2023|
+
+
 
 ## Datasets
 ### Prompt dataset
