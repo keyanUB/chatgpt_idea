@@ -47,7 +47,8 @@
 |Automated program repair, automatic bug fixing, ChatGPT, Codex, LM|[An Analysis of the Automatic Bug Fixing Performance of ChatGPT](https://arxiv.org/pdf/2301.08653.pdf)|ArXiv| Jan 2023|
 |Automated program repair, LLM|[Automated Program Repair in the Era of Large Pre-trained Languauge Models](https://lingming.cs.illinois.edu/publications/icse2023a.pdf)|ICSE|Oct 2022|
 |CoT, LM|[Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/pdf/2305.10601.pdf)|ArXiv|May 2023| 
-
+|CoT|[Towards Understanding Chain-of-Thought Prompting: An Empirical Study of What Matters](https://arxiv.org/pdf/2212.10001.pdf)|ACL|Dec 2022|
+|LLM, Adversarial ML|[A LLM Assisted Exploitation of AI-Guardian](https://arxiv.org/abs/2307.15008)|ArXiv|Jul 2023|
 
 ### Online hate-related
 |**Topic**|**Title**|**Conference**|**Year**|
