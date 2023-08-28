@@ -49,7 +49,7 @@
 |CoT, LM|[Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/pdf/2305.10601.pdf)|ArXiv|May 2023| 
 |CoT|[Towards Understanding Chain-of-Thought Prompting: An Empirical Study of What Matters](https://arxiv.org/pdf/2212.10001.pdf)|ACL|Dec 2022|
 |LLM, Adversarial ML|[A LLM Assisted Exploitation of AI-Guardian](https://arxiv.org/abs/2307.15008)|ArXiv|Jul 2023|
-|V&L model, LLM|[Towards Language Models That Can See: Computer Vision Through the LENS of Natural Language](https://arxiv.org/pdf/2306.16410.pdf)|ArXiv, Jun 2023|
+|V&L model, LLM|[Towards Language Models That Can See: Computer Vision Through the LENS of Natural Language](https://arxiv.org/pdf/2306.16410.pdf)|ArXiv|Jun 2023|
 
 ### Online hate-related
 |**Topic**|**Title**|**Conference**|**Year**|
